@@ -1,0 +1,64 @@
+    <section id="single-portfolio">
+    	
+		<div class="portfolio-container container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="portfolio-single-bg row no-margin-padding">
+						<div class="col-md-9 portfolio-content">
+							 <img src="img/portfolio-blog-1.jpg" alt="">
+						</div>
+						<div class="col-md-3 portfolio-description">
+							<div class="portfolio-info">
+								<h3 class="entry-title">NORMAL PROJECT</h3>
+								<div class="fancy-line"></div>
+								<p class="portfolio-brief">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+							</div>
+							<a href="#" class="portfolio-link btn btn-primary">Project Link</a>
+							
+							<div class="seperator"></div>
+							<div class="portfolio-details">
+								<h4>DETAILS</h4>
+								<h6>CLIENT&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;<span class="default-typo">Themeforest</span></h6>
+								<h6>DATE&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;<span class="default-typo">20 Jul 2014</span></h6>
+								<h6>CATEGORY&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;<span class="default-typo">WP, HTML</span></h6>
+							</div> 
+							<div class="portfolio-navigation">
+								<div class="portfolio-nav-container">
+									<ul class="portfolio-controls list-inline">
+										<li><a class="portfolio-prev" href="#"><i class="icon ion-ios7-arrow-thin-left large-icon"></i></a></li>
+										<li><a class="portfolio-next" href="#"><i class="icon ion-ios7-arrow-thin-right large-icon"></i></a></li>
+									</ul>
+									<div class="portfolio-close clearfix">										
+										<a class="close-portfolio-item" href="javascript:void(0)"><i class="icon ion-ios7-close-empty large-icon"></i></a>
+									</div>
+									<a class="portfolio-share-icon toggle-icon" href="#"><i class="icon ion-android-share small-icon"></i></a>
+								</div>
+							</div>
+							<script type="text/javascript">
+								$('.portfolio-share-icon').click(function(e){
+									e.preventDefault();
+									if ( $('.portfolio-share').is(':hidden') ) {		
+										$('.portfolio-share').fadeIn();
+									}
+									else{
+										$('.portfolio-share').fadeOut();	
+									}
+											
+								});	
+								// Popup window code
+								function newPopup(url) {
+									popupWindow = window.open(
+										url,'popUpWindow','height=700,width=800,left=10,top=10,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no,status=yes')
+								}
+							</script> 
+							<ul class="portfolio-share list-inline">
+								<li><a href="JavaScript:newPopup('http://www.facebook.com/sharer.php?u=yourlink/&t=yourtitle"><i class="icon ion-social-facebook"></i></a></li>
+								<li><a href="JavaScript:newPopup('http://twitter.com/home/?status=yourtitle - yourlink');"><i class="icon ion-social-twitter"></i></a></li>
+								<li><a href="JavaScript:newPopup('https://plus.google.com/share?url=yourlink'); "><i class="icon ion-social-googleplus"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>          
+    </section>

@@ -1,0 +1,22 @@
+.header-icon{
+	background-color:#2e3d50;
+	padding:0 30px;
+}
+
+.nav-menu{
+	float:left;
+}
+
+.nav-menu-content .sub-menu,
+.nav-menu-content .children {
+	left:0;
+	right:auto;
+	
+}
+
+.nav-menu-content .sub-menu ul,
+.nav-menu-content .children ul {
+	left:100%;
+	right:auto;
+	
+}
