@@ -1,0 +1,69 @@
+/* Accent 1 */
+.btn-default , .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus, .nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus, .panel-default > .panel-heading a, .panel-primary > .panel-heading a.collapsed, .header-search-toggle, .header-search-toggle:hover,  .portfolio-share-icon, .portfolio-share a:hover, .portfolio-share a:active, .portfolio-share a:focus, .post-tag-icon , .post-tag-icon a, .post-share a:hover, .post-share a:active, .post-share a:focus , .page-navigation a:hover, .social-icons a:hover, .social-icons a:active, .social-icons a:focus, .comingsoon .subscribe-form .subscribe-submit, section i  {
+	color:#424342;
+}
+
+.btn-primary , .nav .open > a, .nav .open > a:hover, .nav .open > a:focus , .panel-primary > .panel-heading a, .back-to-top a , .nav-dots span , .owl-theme .owl-controls .owl-buttons div, .owl-theme .owl-controls .owl-page span, .nav-menu-content li >a.active, ul.nav-menu-content ul a:hover, .nav-menu-content ul ul a:hover, .toggle-nav-menu, .toggle-nav-menu:hover, .social-toggle, .fancy-line-inverse, .portfolio-filter .active, .portfolio-share a, .portfolio-navigation, .post-date, .post-date, .post-share-icon, .post-navigation, .post-category-icon, .post-share a, .page-navigation a, .search-form .search-submit, .tagcloud a:hover, .pricing-top, .footer-bar .fancy-line-small, .footer-bar .search-form .search-submit, .footer-bar .tagcloud a:hover, .social-icons a, .dropcap-box, .dropcap-circle {
+	background-color:#424342;
+}
+
+.tagcloud a:hover, .footer-bar .tagcloud a:hover {
+	border-color:#424342;
+}
+
+.panel-primary > .panel-heading + .panel-collapse .panel-body {
+  border-top-color: #424342;
+}
+.panel-primary > .panel-footer + .panel-collapse .panel-body {
+  border-bottom-color: #424342;
+}
+
+/* Accent 2 */
+
+a , .btn-primary , .btn-link:hover, .btn-link:focus, .panel-default > .panel-heading a.collapsed, .panel-primary > .panel-heading a,  .back-to-top a, .text_slide h1 span, .video-background-controls button, .header-icon .logo-text , .nav-menu-content li >a:hover , .nav-menu-content li.current-menu-item > a, .nav-menu-content li ul li.current-menu-item > a, ul.nav-menu-content ul a:hover, .nav-menu-content li > a.active , .nav-menu-content ul ul a:hover, .tab-nav-menu a:hover, .tab-nav-menu a:active, .tab-nav-menu a:focus, .toggle-nav-menu, .toggle-nav-menu:hover, .toggle-nav-menu:active, .toggle-nav-menu:focus, .social-toggle, .social-toggle:hover, .social-toggle:active, .social-toggle:focus, section i:hover, .milestone .count, .portfolio-filter a:hover, .portfolio-filter .active, .portfolio-thumbnail-content a i, .portfolio-share a, .portfolio-controls i, .portfolio-close i, .portfolio-controls li:after, .member-link li:after, .member-link  i, .post-category-icon, .blog-controls li:after, .quote-symbol i, .required-alert li, .address-line a i, #countdown h1 , .dropcap-box , .dropcap-circle , .list-icon i, .big-number, .post-navigation, .post-date, .post-share-icon, .post-date, .owl-theme .owl-controls .owl-buttons div, .owl-theme .owl-controls .owl-page span.owl-numbers{
+	color:#d9cdb8;
+}
+
+.btn-default, .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus, .nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus, .header-search-toggle, .progress-bar, .panel-default > .panel-heading a, .fancy-line, .portfolio-share-icon, .portfolio-share a:hover, .portfolio-share a:active, .portfolio-share a:focus, .post-tag-icon , .post-share a:hover, .post-share a:active, .post-share a:focus, .page-navigation a:hover, .fancy-line-small, .pricing-recommanded, .social-icons a:hover, .social-icons a:active, .social-icons a:focus, .comingsoon .subscribe-form .subscribe-submit, .white .owl-theme .owl-controls .owl-page span, .bx-wrapper .bx-pager.bx-default-pager a {
+	background-color:#d9cdb8;
+}
+
+blockquote , .blockquote-reverse, blockquote.pull-right, .nav-menu-content .sub-menu, .nav-menu-content .children, .comingsoon .subscribe-form {
+	border-color:#d9cdb8;
+}
+
+/* Background color */
+
+body{	
+	background-color:#fbfbfb; 
+}
+.section-bg-color{
+	background-color:#f9f9f9;
+}
+.footer-bg{
+	background-color:#333;
+}
+
+
+/* Default color  */
+
+body, .default-typo{
+	color:#c5c5c5; 
+}
+
+
+h1, h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 , .btn-link ,  .nav-menu >a, .nav-menu-content li >a , .nav-menu-content ul a, .nav-menu-content ul ul a, .tab-nav-menu a, .portfolio-filter a, #wp-calendar > thead > tr > th, #wp-calendar caption , .address-line i, .address-line i:hover {
+	color:#777;
+}
+
+
+
+/* Accent color 1*/
+
+.portfolio-thumbnail-content, .member-text-content{
+	background-color: rgba(66,67,66,0);
+}
+
+.portfolio-thumbnail-content:hover, .member-text-content:hover{
+	background-color: rgba(66,67,66,1);
+}
