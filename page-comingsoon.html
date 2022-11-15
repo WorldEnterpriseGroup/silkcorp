@@ -1,0 +1,127 @@
+<!DOCTYPE HTML>
+<html lang="en">
+	<head>
+		<title>SILK Corp - Elegant Management</title>
+		<meta charset="UTF-8" />
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		
+		<!-- favicon -->
+		<link rel="shortcut icon" href="img/favicon.png">
+		
+		<!-- Style sheets -->
+		<link href="css/crispy.css" rel="stylesheet">
+		<link href="css/ionicons.min.css" rel="stylesheet">
+		<link href="css/font-awesome.min.css" rel="stylesheet">
+		<link href="css/preloader.css" rel="stylesheet">		
+		<link href="css/style.css" rel="stylesheet">
+		<link href="css/responsive.css" rel="stylesheet">
+		<!--<link href="css/non-responsive.css" rel="stylesheet"> -->
+		
+		<!-- Google fonts -->
+		<link href='http://fonts.googleapis.com/css?family=Raleway:400,300%7CMontserrat' rel='stylesheet' type='text/css'>
+		
+	</head>
+	<body>
+		
+		<!-- Header -->
+		<div class="header-menu-bg comingsoon-logo">
+            <div id="header-menu" class="container">
+                <div class="header-icon">
+                	<a href="#" class="logo-icon logo-text"><img src="img/logo.png" alt="Crispy"></a>
+                </div>
+            </div>    
+        </div>		
+		
+		<!-- Page header -->
+		<div class="page-header white comingsoon">  <!-- Header Image  -->
+			<div class="page-header-container container">
+				<div class="page-header-content">
+					<!-- News Letter --> 
+					<h1>GET NOTIFIED</h1>
+					<div class="fancy-line"></div>
+					<p>Apologies!!.. We are really working hard towards to fix the problem!!.. We will be get back you soon!!.. Keep in touch!!!..  </p> 
+					<div id="subscribe-form" class="subscribe-form" >
+						<form action="comingsoon/submit.php" method="post">
+							<input type="email" id="email" class="email subscribe-field" name="email" value="enter your email...">
+							<input type="submit" id="subscribe-submit" class="submit subscribe-submit" value="SUBSCRIBE" data-done="Subscribed!">
+						</form>	   
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<section class="Counter container">
+			<div class="row">
+				<div class="col-md-6  text-center countdown-half">
+					<ul id="countdown" class="list-inline">
+						<li class="col-md-3 margin-30">
+							<h1 class="days">00</h1>
+							<p class="timeRefDays">days</p>
+						</li>
+						<li class="col-md-3 margin-30">
+							<h1 class="hours">00</h1>
+							<p class="timeRefHours">hours</p>
+						</li>
+						<li class="col-md-3 margin-30">
+							<h1 class="minutes">00</h1>
+							<p class="timeRefMinutes">minutes</p>
+						</li>
+						<li class="col-md-3 margin-30">
+							<h1 class="seconds">00</h1>
+							<p class="timeRefSeconds">seconds</p>
+						</li>
+					</ul>
+				</div>
+				<div class="col-md-6 contact-half ">
+					<div class="row">
+						<div class="col-md-6 text-center margin-65">
+							<i class="icon ion-ios7-telephone-outline large-icon"></i><p>(000) 000-0000</p>
+						</div>
+						<div class="col-md-6 text-center margin-65">
+							<i class="icon ion-ios7-paperplane-outline large-icon"></i><p>support@agnidesigns.com</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>	
+				
+		<!-- footer -->
+		<div id="footer-area" class="footer-bg text-center">
+			<div class="footer container">
+				<img src="img/logo-big-lite.png" alt="logo_big">	
+				<ul class="social-icons list-inline">
+					<li><a href="#"><i class="icon ion-social-github"></i></a></li>
+					<li><a href="#"><i class="icon ion-social-dribbble-outline"></i></a></li>
+					<li><a href="#"><i class="icon ion-social-facebook"></i></a></li>
+					<li><a href="#"><i class="icon ion-social-twitter"></i></a></li>
+					<li><a href="#"><i class="icon ion-social-googleplus"></i></a></li>
+				</ul>
+				<div id="colophon" class="footer-colophon col-md-8 col-md-offset-2">
+					<p class="site-info">Developed by <a href="#">AgniDesigns</a> - Copyright &copy; 2014 All rights Reserved.</p>
+				</div>
+			</div>
+		</div>
+
+
+		<script src="js/jquery.min.js"></script>
+		<script src="comingsoon/js/countdown.js"></script>
+		<script src="comingsoon/js/script.js"></script>
+		
+		<script type="text/javascript">
+			$(document).ready(function() {
+				$("#countdown").countdown({
+					date: "23 november 2015 1:50:30", // add the countdown's end date (i.e. 3 november 2012 12:00:00)
+					format: "on" // on (03:07:52) | off (3:7:52) - two_digits set to ON maintains layout consistency
+				},
+				
+				function() { 
+					
+					// the code here will run when the countdown ends
+					alert("done!") 
+
+				});
+			});
+		</script>
+	</body>
+</html>
