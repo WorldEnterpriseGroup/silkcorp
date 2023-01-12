@@ -2,7 +2,7 @@
 
 **Job Title:** Part-time Construction Helper
 
-**Company:** Tao Staff
+**Company:** Tao Staff LLC
 
 **Location:** Parkersburg, WV, Ohio, & PA.
 
@@ -35,4 +35,4 @@ We are seeking a skilled and experienced part-time construction helper to assist
 - Basic computer skills are essential.
 
 **Apply Now:**
-To apply, please submit your resume and a list of references to https://taostaff.com/apply/realestate. 
+To apply, please submit your resume and a list of references to https://apply.silkhomes.org. 
