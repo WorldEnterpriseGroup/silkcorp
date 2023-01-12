@@ -31,7 +31,6 @@
 - This is a part-time position with competitive pay and benefits.
 
 **Our Ideal Candidate:**
-- We love working with talented people but more than that, we’re looking for collaborators who want their career to feel like a community.
 - Applicant must be non-smoker, warm, friendly, hardworking.
 - Basic computer skills are essential.
 
