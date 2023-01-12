@@ -29,8 +29,7 @@ We are seeking a skilled and experienced part-time construction helper to assist
 - Must have a valid driver's license and transportation
 - This is a part-time position with flexible hours. We offer competitive pay and opportunities for advancement.
 
-**Who are we a good fit for?**
-- We love working with talented people but more than that, we’re looking for collaborators who want their career to feel like a community.
+**Our Ideal Candidate:**
 - Applicant must be non-smoker, warm, friendly, hardworking.
 - Basic computer skills are essential.
 
