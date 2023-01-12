@@ -12,7 +12,7 @@ Serving the Tri-State area of Ohio, WV, and PA. We work with a variety of people
 **Job Description:**
 We are seeking a skilled and experienced part-time construction helper to assist with various projects. The ideal candidate will have experience in drywall, electric, plumbing, painting, landscaping, and other similar skills.
 
-Responsibilities:
+**Responsibilities:**
 
 - Assisting with various construction projects
 - Performing tasks such as drywall installation, electrical wiring, plumbing, painting, and landscaping
