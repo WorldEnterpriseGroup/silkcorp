@@ -2,6 +2,8 @@
 
 
 ### **SPACE:**
+(SILK operates in the health and wellness industry, with a focus on mental, physical, and emotional well-being. The company faces competition from gyms, health clubs, wellness centers, and startups. Regulations, economic conditions, changing consumer behavior, and sustainability concerns may impact its business operations. SILK's focus on diversity, equity, and inclusion may differentiate it from competitors and create opportunities for collaborations.)
+
 **S - Social:** SILK operates in the health and wellness industry, which is heavily influenced by social factors such as changing consumer behavior and preferences, evolving societal norms, and lifestyle trends. The company's focus on promoting mental, physical, and emotional well-being also aligns with the growing interest in holistic health practices and self-care among individuals.
 
 **P - Political/Legal:** The health and wellness industry is subject to various regulations and policies, such as health and safety standards, licensing requirements, and labor laws. SILK may also be affected by government policies related to healthcare and insurance, as well as laws and regulations that impact small businesses.
