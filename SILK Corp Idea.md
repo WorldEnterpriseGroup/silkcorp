@@ -31,7 +31,6 @@ We offer a range of certifications in our YACHT categories, including:
     - Concession Stand Certification
     - Franchises
 
-
 - **Franchise Opportunities:**
 Once you complete our certification program and you have a passion for business you can qualify to own your own franchise through SILK Corp. We provide ongoing support to our franchise owners, including training, marketing, and advertising. It provides comprehensive services to help businesses grow and succeed which include:
 
@@ -39,3 +38,16 @@ Once you complete our certification program and you have a passion for business 
     - Marketing and advertising
     - Operations and management
     - Customer service
+
+- As for similar websites, here are a few examples:
+
+    - [MindBodyGreen](https://www.mindbodygreen.com/)
+    - [Gaia](https://www.gaia.com/)
+    - [Yoga Journal](https://www.yogajournal.com/)
+    - [The Art Institute](https://www.artinstitutes.edu/)
+    - [Starbucks](https://www.starbucks.com/)
+    - [CNET](https://www.cnet.com/)
+    - [Udemy](https://www.udemy.com/)
+    - [Eventbrite](https://www.eventbrite.com/)
+    - [Hilton](https://www.hilton.com/)
+    - [Franchise Direct](https://www.franchisedirect.com/)
