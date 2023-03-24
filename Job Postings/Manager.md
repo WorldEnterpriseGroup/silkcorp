@@ -1,6 +1,6 @@
-# SILK Corp L-1 Visa Eligibility
+# SILK Corp Manager
 
-At SILK Corp, we are now offering an exciting opportunity for any employee who wants to become a manager and work in an international environment. By fulfilling your duties as a manager for one year, you could be eligible for an L-1 Visa and transfer to our U.S. branch.
+At SILK Corp, we are now offering an exciting opportunity for any employee who wants to become a manager and work in an international environment. By fulfilling your duties as a manager for one year, you could be eligible for an L-1 Visa and transfer to our U.S. branch in the Mid-Ohio Valley.
 
 ## Job Description
 As a manager at SILK Corp, you will have the chance to lead a team and make a real impact on our organization. 
@@ -11,7 +11,7 @@ Your duties will include:
 - Providing excellent customer service to ensure customer satisfaction
 
 ## Eligibility and Requirements
-Even if you don't currently work for us, you can still apply for this amazing opportunity!
+Even if you don't currently work for us, you can still [apply](https://apply.reveltek.com) for this amazing opportunity!
 
 ### Manager Requirements
 To be eligible for this role, you must:
@@ -28,13 +28,15 @@ To qualify for the L-1 Visa, you will need to meet the following needs:
 - Possess the required qualifications for the role
 
 
-## Benefits
-Did you know that the L-1 approval rate is very high, at around 90%? This means that if you work hard and prove yourself as a capable and effective leader, you'll have a great chance of succeeding on this path towards US citizenship. And speaking of citizenship, 
+## L-1 Visa Benefits
+Did you know that the L-1 approval rate is very high, at around 90%? This means that if you work hard and prove yourself as a capable and effective leader, you'll have a great chance of succeeding on this path towards US citizenship. 
 
-By embarking on this journey, you will enjoy the following benefits:
+And speaking of citizenship, by embarking on this journey, you will enjoy the following benefits:
 - Great chance of succeeding on this path towards US citizenship as the L-1 approval rate is around 90%.
 - Gain valuable experience in the U.S. job market.
 - You'll be one step closer to getting your green card, which usually takes around 2 years to obtain.
+- Live in Company-Provided Housing
+- Enjoy a Family-Friendly Environment where we've built communities for over 100 Years
 
 
 ## Application Process
