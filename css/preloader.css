@@ -27,7 +27,7 @@
 .spinningSquaresG{
 	position:absolute;
 	top:0;
-	background-color:#4f8eb2;
+	background-color:#a5cbe1;
 	width:20px;
 	height:20px;
 	-moz-animation-name:bounce_spinningSquaresG;
@@ -95,7 +95,7 @@
 
 @-moz-keyframes bounce_spinningSquaresG, @-webkit-keyframes bounce_spinningSquaresG, {
 	0%{
-	background-color:#4f8eb2;
+	background-color:#a5cbe1;
 	}
 
 	100%{
@@ -107,7 +107,7 @@
 @-moz-keyframes bounce_spinningSquaresG{
 	0%{
 	-moz-transform:scale(1);
-	background-color:#4f8eb2;
+	background-color:#a5cbe1;
 	}
 
 	100%{
@@ -120,7 +120,7 @@
 @-webkit-keyframes bounce_spinningSquaresG{
 	0%{
 	-webkit-transform:scale(1);
-	background-color:#4f8eb2;
+	background-color:#a5cbe1;
 	}
 
 	100%{
@@ -133,7 +133,7 @@
 @-ms-keyframes bounce_spinningSquaresG{
 	0%{
 	-ms-transform:scale(1);
-	background-color:#4f8eb2;
+	background-color:#a5cbe1;
 	}
 
 	100%{
@@ -146,7 +146,7 @@
 @-o-keyframes bounce_spinningSquaresG{
 	0%{
 	-o-transform:scale(1);
-	background-color:#4f8eb2;
+	background-color:#a5cbe1;
 	}
 
 	100%{
@@ -159,7 +159,7 @@
 @keyframes bounce_spinningSquaresG{
 	0%{
 	transform:scale(1);
-	background-color:#4f8eb2;
+	background-color:#a5cbe1;
 	}
 
 	100%{

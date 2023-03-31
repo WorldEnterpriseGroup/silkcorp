@@ -517,13 +517,13 @@
 		$('.post-content-container').hover(
 			function(){
 				$(this).siblings('.post-thumbnail').children('.post-thumbnail-overlay').css({'background-color':'rgba(46,61,80,1)'});
-				$(this).children('.post-inner').children('.post-content').children('.post-date').css({'background-color':'#4f8eb2'});
+				$(this).children('.post-inner').children('.post-content').children('.post-date').css({'background-color':'#a5cbe1'});
 				$(this).children('.post-inner').children('.post-content').children('.post-date').children('a').css({'color':'#2e3d50'});
 			},
 			function(){
 				$(this).siblings('.post-thumbnail').children('.post-thumbnail-overlay').css({'background-color':'rgba(46,61,80,0)'});
 				$(this).children('.post-inner').children('.post-content').children('.post-date').css({'background-color':'#2e3d50'});
-				$(this).children('.post-inner').children('.post-content').children('.post-date').children('a').css({'color':'#4f8eb2'});
+				$(this).children('.post-inner').children('.post-content').children('.post-date').children('a').css({'color':'#a5cbe1'});
 			}
 		)
 		if( $('.blog-masonry').width() ){
