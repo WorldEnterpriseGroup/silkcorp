@@ -84,7 +84,7 @@
 /* Styling Next and Prev buttons */
 
 .owl-theme .owl-controls .owl-buttons div{
-	color: #4f8eb2;
+	color: #a5cbe1;
 	display: inline-block;
 	zoom: 1;
 	*display: inline;/*IE7 life-saver */
@@ -120,7 +120,7 @@
 }
 .white .owl-theme .owl-controls .owl-page span{
 
-	background: #4f8eb2;
+	background: #a5cbe1;
 }
 
 .owl-theme .owl-controls .owl-page.active span,
@@ -134,7 +134,7 @@
 .owl-theme .owl-controls .owl-page span.owl-numbers{
 	height: auto;
 	width: auto;
-	color: #4f8eb2;
+	color: #a5cbe1;
 	padding: 2px 10px;
 }
 
