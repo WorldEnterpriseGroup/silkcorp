@@ -60,3 +60,6 @@ The ASSIST module for SILK involves identifying and building capabilities, metho
 ### **REACH:**
 SILK aims to create a peaceful community that empowers mental, physical, and emotional well-being, with a strong focus on DE&I. Through the integration of capabilities such as APIs, DevOps, and MLOps, SILK aims to create a community where everyone learns and contributes together, promoting intellectual growth through sharing knowledge. Quantitative metrics such as the number of people positively impacted and the growth of minority-owned businesses will measure the project's success in creating a wholesome and engaging life for individuals and families, ultimately contributing to a better world for everyone.
 
+### Styles Guide
+Check out our new swatches of our Styles Guide
+Will include the styles here.
