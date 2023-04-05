@@ -36,10 +36,11 @@
 					firstName = name.split(' ').slice(0, -1).join(' ');
 				}
 				$.ajax({
-					url: "././contact/contact.php",
+					url: "https://door.taolearning.org/api/form",
 					type: "POST",
 					data: {
-						name: name,
+						firstname: name,
+						lastname: name,
 						email: email,
 						phone: phone,
 						message: message
