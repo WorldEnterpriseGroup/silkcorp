@@ -16,8 +16,6 @@
 	})
 
 	$(function() {
-		
-		
 		$("input,textarea").jqBootstrapValidation({
 			preventSubmit: true,
 			submitError: function($form, event, errors) {
@@ -26,11 +24,13 @@
 			submitSuccess: function($form, event) {
 				event.preventDefault(); // prevent default submit behaviour
 				// get values from FORM
-				var name = $("input#name").val();
+				var firstname = $("input#firstname").val();
+				var lastname = $("input#lastname").val();
 				var email = $("input#email").val();
 				var phone = $("input#phone").val();
 				var message = $("textarea#message").val();
-				var firstName = name; // For Success/Failure Message
+				var firstName = firstname; // For Success/Failure Message
+
 				// Check for white space in name for Success/Fail message
 				if (firstName.indexOf(' ') >= 0) {
 					firstName = name.split(' ').slice(0, -1).join(' ');
@@ -39,11 +39,11 @@
 					url: "https://door.taolearning.org/api/form",
 					type: "POST",
 					data: {
-						firstname: name,
-						lastname: name,
-						email: email,
-						phone: phone,
-						message: message
+						firstname: firstname,
+                    	lastname: lastname,
+                    	email: email,
+                    	phone: phone,
+                    	message: message
 					},
 					cache: false,
 					success: function() {
