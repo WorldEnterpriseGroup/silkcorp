@@ -1121,7 +1121,7 @@ section i:hover{
 --------------------
 */
 .milestone{
-	/* background-image:url('../img/image-1.jpg'); */
+	background-image:url('../img/image-1.jpg');
 	background-color:#040506;
 }
 
