@@ -39,7 +39,7 @@
 					url: "https://door.taolearning.org/api/form",
 					type: "POST",
 					data: {
-						firstname: firstname,
+						firstname: firstName,
                     	lastname: lastname,
                     	email: email,
                     	phone: phone,
