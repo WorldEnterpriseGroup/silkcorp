@@ -1121,7 +1121,8 @@ section i:hover{
 --------------------
 */
 .milestone{
-	background-image:url('../img/image-1.jpg');
+	/* background-image:url('../img/image-1.jpg'); */
+	background-color:#040506;
 }
 
 .app-store{
@@ -1521,7 +1522,7 @@ content: '';
 /* call to action */
 
 .call-to-action{
-	background-image:url('../img/costarica_banner_1920x976');
+	background-image:url('../img/custom/costarica_banner_1920x1080_cool.jpg');
 }
 
 .call-to-action-no-bg{
@@ -2145,7 +2146,7 @@ article.post{
 --------------------
 */
 .testimonials{
-	background-image:url('../img/costarica_banner_1920x976');
+	background-image:url('../img/custom/trees_1920x1080.jpg');
 }
 
 .quote-symbol i{
