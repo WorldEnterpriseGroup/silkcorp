@@ -510,6 +510,13 @@
 			paginationSpeed : 400,
 			singleItem:true,
 		});
+
+		$("#carousel-whoweare").owlCarousel({
+			autoPlay : 6000,
+			slideSpeed : 700,
+			paginationSpeed : 400,
+			singleItem:true,
+		});
 		
 		
 		
