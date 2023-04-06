@@ -12,10 +12,10 @@
          player = new YT.Player('player', {
            height: '480',
            width: '720',
-           videoId: 'PLRokVXH5v4O38owBsQPOl1UIvThUdE8a2',
+           videoId: 'PLRokVXH5v4O0MJEyoBz8nXS1PP1O8mpn6',
            playerVars: {
                listType:'playlist',
-               list: 'PLRokVXH5v4O38owBsQPOl1UIvThUdE8a2',
+               list: 'PLRokVXH5v4O0MJEyoBz8nXS1PP1O8mpn6',
                  'playsinline': 1
            },
            events: {
@@ -36,7 +36,7 @@
  var done = false;
  function onPlayerStateChange(event) {
    if (event.data == YT.PlayerState.PLAYING && !done) {
-     setTimeout(stopVideo, 6000);
+     setTimeout(stopVideo, 100);
      done = true;
    }
  }
@@ -75,13 +75,13 @@
 
        // 4. The API will call this function when the video player is ready.
        function onPlayerReady(event) {
-         event.target.playVideo();
+        //  event.target.playVideo();
        }
  
        var done = false;
        function onPlayerStateChange(event) {
          if (event.data == YT.PlayerState.PLAYING && !done) {
-           setTimeout(stopVideo, 6000);
+           setTimeout(stopVideo, 1);
            done = true;
          }
        }
