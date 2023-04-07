@@ -2554,3 +2554,7 @@ ion-icon {
 	color: #a5cbe1;
 	margin-right: 10px;
 }
+
+.btn-white, .milestone a {
+	color:#f0f0f0;
+}
