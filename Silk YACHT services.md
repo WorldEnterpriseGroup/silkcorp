@@ -123,7 +123,9 @@ Furnished suites for short & long term stays in our charming cottages.
 * Tao Cottages
 
 # Silk Tech
-Silk Tech refers to the application of science and engineering innovations to improve various aspects of business operations and promote social responsibility. 
+SILK Tech is a leading provider of professional services that specialize in selecting the best cloud services and operating systems tailored to meet the unique needs of businesses. Our team of experts is dedicated to assisting clients in choosing the most appropriate tools and applications, ensuring optimal performance and cost-effectiveness.
+
+In addition to our top-notch selection services, SILK Tech also offers incubation services that are designed to foster business growth and development. Our team is committed to providing the necessary resources and support to help businesses achieve their goals.
 
 It encompasses a wide range of skills including:
 
