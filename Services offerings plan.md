@@ -128,3 +128,38 @@ Our pricing for SILK Tech services is customized based on the client's specific 
 their goals.
 In conclusion, SILK Tech provides businesses with innovative technology solutions that enhance operations and promote social responsibility. Our team of experts 
 collaborates locally and worldwide, offering customized services at competitive prices.
+
+| Category | Service | Description | Price |
+| --- | --- | --- | --- |
+| Yoga | Earth Silk | Beginner (Chakra Balance) | $50 per session |
+| Yoga | Wind Silk | Intermediate (Sacred Alignment) | $70 per session |
+| Yoga | Fire Silk | Advanced (Prana Empowerment) | $90 per session |
+| Yoga | Allied Health | Holistic Health Consultation | $75 per session |
+| Yoga | Allied Health | Massage Therapy | $60 per hour |
+| Yoga | Tai Chi | Silk Weaving - Beginner | $25 per session |
+| Yoga | Tai Chi | Silk Weaving -  Intermediate | $35 per session |
+| Yoga | Tai Chi | Silk Weaving -  Advanced | $45 per session |
+| Arts | Painting | Custom painting services | Contact for pricing |
+| Arts | Music | Custom music performances and lessons | Contact for pricing |
+| Arts | Dance | Custom dance performances and lessons | Contact for pricing |
+| Arts | Decorating | Custom decorating and event design | Contact for pricing |
+| Arts | Soap-making | Custom soap-making workshops and products | Contact for pricing |
+| Cafe | Culinary Arts Workshops | Cooking workshops for various cuisines and diets | Contact for pricing |
+| Cafe | Catering Services | High-quality catering services for special occasions | Prices vary |
+| Home | Governess | Childcare | $25 per hour |
+| Home | Childcare | Babysitting | $15 per hour |
+| Home | Gardening | Garden maintenance and landscaping | $50 per hour |
+| Home | Hospitality | Bed and breakfast accommodation | $150 per night |
+| Home | Kitchen Design Services | Design and installation of custom kitchens | Contact for pricing |
+| Home | Decorating Consultant | Home decorating and interior design | Contact for pricing |
+| Home | Interior Design | Custom interior design services | Contact for pricing |
+| Tech | BPO Management | Business process outsourcing | Contact for pricing |
+| Tech | Agile Management | Agile project management | Contact for pricing |
+| Tech | Project Management | Project management services | Contact for pricing |
+| Tech | Research | Research and analysis | Contact for pricing |
+| Tech | Data Science | Data analysis and machine learning | Contact for pricing |
+| Tech | Social Media Management | Social media marketing and management | Contact for pricing |
+| Tech | Office Management | Administrative and office management services | Contact for pricing |
+| Tech | Writing | Content writing and editing | Contact for pricing |
+| Tech | Document Preparation | Document formatting and preparation | Contact for pricing |
+| Tech | Translation | Language translation services | Contact for pricing |
