@@ -1,5 +1,6 @@
 # Silk Y.A.C.H.T. 
-is a franchise program that embodies Silk Life's values and provides tailored services to meet the specific needs of its clients, while also creating employment opportunities for local talents.
+are our services that incorporates our SILK Life values. These services are molded together to create a unique franchise program where services are customized for our client's needs while providing work with local talents. 
+Yoga classes help clients find inner peace and relaxation. Alongside it, doing crafts and providing homesteading services gives a sustainable business and lifestyle. Also, running a cozy café and hospitality business provides the perfect place to create a unique atmosphere and experience for our clients. And having a tech job on one side, enables us to learn, earn, and collaborate locally and worldwide.
 
 
 # Silk Yoga
