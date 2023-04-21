@@ -54,7 +54,7 @@ These artistic disciplines that have benefited the communities in which they are
 
 * DECORATING is an essential part of creating a comfortable and aesthetically pleasing environment, whether it's a home, workplace, or public space. It allows for personalization and can enhance functionality and mood.
 
-* SOAP_MAKING is a practical and sustainable craft that has been used for centuries for personal hygiene and health. It allows for creativity and can provide a source of income for individuals and communities, especially in developing countries.
+* SOAP-MAKING is a practical and sustainable craft that has been used for centuries for personal hygiene and health. It allows for creativity and can provide a source of income for individuals and communities, especially in developing countries.
 
 # Silk Cafe
 An accomodating food establishment that caters to both regular customers and guests for special events. This cafe is renowned for its delicious baked goods, premium coffee and tea,  that prioritize the use of high-quality ingredients.
@@ -225,3 +225,38 @@ It encompasses a wide range of skills including:
 
 
 Overall, the Silk brand offers diverse services and practices that cater to the needs of individuals, businesses, and communities, with a focus on enhancing well-being, sustainability, and social responsibility.
+
+
+
+
+| Category | Service | Description |
+| --- | --- | --- |
+| Yoga | Ayurvedic | Traditional Indian medicine seeks to balance the body, mind, and spirit through herbal remedies, diet, and lifestyle adjustments. | 
+| Yoga | Allied Health | Healthcare professions work together to enhance patients' quality of life by addressing their physical, emotional, and social needs. | 
+| Yoga |  Tai Chi | A gentle and meditative practice that promotes physical and mental well-being. | 
+| Yoga | Courses | 1. Earth Silk- Beginner (Chakra Balance) 2. Wind Silk- Intermediate (Sacred Alignment) 3. Fire Silk- Advance (Prana Empowerment) | 
+| Arts | Music | Custom music performances and lessons | 
+| Arts |Dance | Custom dance performances and lessons (Ballroom and Tango) |
+| Arts | Painting | Custom painting services | 
+| Arts | Decorating | Custom decorating and event design | 
+| Arts | Soap-making | Custom soap-making workshops and products | 
+| Cafe | Catering | High-quality catering services for special occasions | 
+| Cafe | Culinary Arts Workshops | Cooking workshops for various cuisines and diets |
+| Home | Governess | Childcare | 
+| Home | Childcare | Babysitting | 
+| Home | Gardening | Garden maintenance and landscaping |
+| Home | Hospitality | Bed and breakfast accommodation |
+| Home | Kitchen Design Services | Design and installation of custom kitchens |
+| Home | Decorating Consultant | Home decorating and interior design | 
+| Home | Interior Design | Custom interior design services | 
+| Tech | BPO Management | Business process outsourcing | 
+| Tech | Agile Management | Agile project management | 
+| Tech | Project Management | Project management services | 
+| Tech | Research | Research and analysis | 
+| Tech | Data Science | Data analysis and machine learning | 
+| Tech | Social Media Management | Social media marketing and management | 
+| Tech | Office Management | Administrative and office management services | 
+| Tech | Writing | Content writing and editing |
+| Tech | Document Preparation | Document formatting and preparation | 
+| Tech | Translation | Language translation services | 
+
