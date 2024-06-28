@@ -1,4 +1,4 @@
-# SILKcorp (Society Integrity, Love, Knowledge)
+# SILK Corp (Society Integrity, Love, Knowledge)
 
 Welcome to SILKCorp! 
 
@@ -19,3 +19,9 @@ Under the umbrella of SILK Life, we offer a variety of services designed to enri
 - **Tech (T)**: In an increasingly digital world, we emphasize the importance of accuracy and ethical use of data. Our high-tech workspaces offer sessions on ethical digital practices, ensuring that technology enhances our services in yoga, arts, cafe, home decor, and more.
 
 Join us on our journey to create a supportive and sustainable community where everyone can thrive. Together, we can build a better future grounded in Society, Integrity, Love, and Knowledge.
+
+### Visit our websites to get more information: 
+- [SILK Corp](https://silkcorp.org/)
+- [SILK Guide](guide/silkcorp.org)
+### If you want to contribute in SILK follow the link  
+- [SILK GitHub](https://github.com/NoteHive/Silk-Corp-Guide)
