@@ -138,12 +138,12 @@ address p{
 }
 
 .agni_slide-bg-1{
-	background-image:url('../img/custom/costarica_banner_1920x1080_cool.jpg'); 
+	background-image:url('../img/custom/costarica_banner_1920x1080_cool.webp'); 
 	background-attachment:fixed;
 }
 
 .agni_slide-bg-2{
-	background-image:url('../img/custom/thoughtful_1920_1080.jpg'); 
+	background-image:url('../img/custom/thoughtful_1920_1080.webp'); 
 	background-attachment:fixed;
 }
 
@@ -224,7 +224,7 @@ address p{
 ----------------------------------
 */
 .text_slides{
-	background-image:url('../img/slide-4.jpg'); 
+	background-image:url('../img/slide-4.webp'); 
 	background-size:cover;
 }
 
@@ -290,12 +290,12 @@ address p{
 ----------------------------------
 */
 .agni-image-bg-1{
-	background-image:url('../img/slide-2.jpg'); 
+	background-image:url('../img/slide-2.webp'); 
 	background-size:cover; 
 }
 
 .agni-image-bg-2{
-	background-image:url('../img/slide-8.jpg'); 
+	background-image:url('../img/slide-8.webp'); 
 	background-size:cover; 
 }
 
@@ -1081,7 +1081,7 @@ section i:hover{
 
 .page-header-blog-grid{
 	height:280px; 
-	background-image:url('../img/image-1.jpg');
+	background-image:url('../img/image-1.webp');
 }
 .page-header-blog-masonry{
 	height:280px; 
@@ -1096,22 +1096,22 @@ section i:hover{
 
 .page-header-blog-post-1{
 	height:360px; 
-	background-image:url('../img/blog-header.jpg');
+	background-image:url('../img/blog-header.webp');
 }
 
 .page-header-portfolio-2col {
 	height:280px; 
-	background-image:url('../img/image-1.jpg');
+	background-image:url('../img/image-1.webp');
 }
 
 .page-header-portfolio-3col {
 	height:280px; 
-	background-image:url('../img/image-1.jpg');
+	background-image:url('../img/image-1.webp');
 }
 
 .page-header-portfolio-post-1{
 	height:360px; 
-	background-image:url('../img/blog-header.jpg');
+	background-image:url('../img/blog-header.webp');
 
 }
 
@@ -1121,7 +1121,7 @@ section i:hover{
 --------------------
 */
 .milestone{
-	background-image:url('../img/image-1.jpg');
+	background-image:url('../img/image-1.webp');
 	background-color:#040506;
 }
 
@@ -1468,7 +1468,7 @@ content: '';
 
 .services{
 	background-position:center;
-	background-image:url('../img/image-2.jpg'); 
+	background-image:url('../img/image-2.webp'); 
 	background-size:cover;
 	
 }
@@ -1522,7 +1522,7 @@ content: '';
 /* call to action */
 
 .call-to-action{
-	background-image:url('../img/custom/costarica_banner_1920x1080_cool.jpg');
+	background-image:url('../img/custom/costarica_banner_1920x1080_cool.webp');
 }
 
 .call-to-action-no-bg{
@@ -2146,7 +2146,7 @@ article.post{
 --------------------
 */
 .testimonials{
-	background-image:url('../img/custom/trees_1920x1080.jpg');
+	background-image:url('../img/custom/trees_1920x1080.webp');
 }
 
 .quote-symbol i{
@@ -2402,7 +2402,7 @@ article.post{
 */
 .comingsoon{
 	height:600px; 
-	background-image:url('../img/soon.jpg');
+	background-image:url('../img/soon.webp');
 }
 
 .white.comingsoon .subscribe-form input[type="email"]{
@@ -2455,7 +2455,7 @@ article.post{
 
 .error-404{
 	height:600px; 
-	background-image:url('../img/soon.jpg');
+	background-image:url('../img/soon.webp');
 }
 
 .error-404 h1{
